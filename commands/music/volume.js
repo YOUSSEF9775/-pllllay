@@ -1,6 +1,6 @@
 module.exports = {
     name: 'vol',
-    aliases: [],
+    aliases: ['صوت'],
     category: 'Music',
     utilisation: '{prefix}volume [1-100]',
 
