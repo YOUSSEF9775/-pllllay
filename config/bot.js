@@ -8,9 +8,9 @@ module.exports = {
     },
 
     discord: {
-        token: 'التوكن',
+        token: 'NzExODk2NTk1NDM5OTQzNzAw.XsJrXg.vYBclnmYdoC0izwyfcwoF6HUa84',
         prefix: '+',
-        activity: 'الامر (.)',
+        activity: 'zby',
     },
 
     filters: ['8D', 'gate', 'haas', 'phaser', 'treble', 'tremolo', 'vibrato', 'reverse', 'karaoke', 'flanger', 'mcompand', 'pulsator', 'subboost', 'bassboost', 'vaporwave', 'nightcore', 'normalizer', 'surrounding'],
